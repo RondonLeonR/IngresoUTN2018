@@ -13,7 +13,7 @@ var edad
         {
             alert("Usted es un Adolesente");
         }
-    else if( edad > 17 )
+    else 
         {
             alert("Usted es un Adulto");
         }
